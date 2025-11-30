@@ -1,5 +1,5 @@
 package in.psa;
 
 public class A {
-  int x = 100
+  int x = 100;
 }
